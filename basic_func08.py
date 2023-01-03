@@ -1,5 +1,6 @@
 # Create a function called main.
-
-# Create function arguments a.
-
-# Increase the value of a to one and return.
+def main(a):
+    # Create function arguments a.
+    a = a+1
+    # Increase the value of a to one and return.
+    return a
